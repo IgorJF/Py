@@ -109,6 +109,7 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 rel_path = "carros.txt"
 abs_file_path = os.path.join(current_dir, rel_path)
 carros = leArquivo(abs_file_path)
+print(carros) 
 
 #ligação com o chromium
 driver = webdriver.Chrome()
