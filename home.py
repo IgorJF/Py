@@ -116,7 +116,7 @@ driver = webdriver.Chrome()
 driver.get("http://weka.inf.ufes.br/IFESTP/index.php")
 
 #Cadastro do usuário
-cadastro_usuario(driver, "Rapadura", "igordanieljuliano@tii.com", "20212023idj")
+cadastro_usuario(driver, "Definitive2", "definitive2@tii.com", "20212023idj")
 
 #Repeticao para cadastrar carros até o final da lista
 for carro in carros:
