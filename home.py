@@ -1,6 +1,3 @@
-#Daniel Caldana Jeveaux - 3TII
-#Igor Jorge Ferraz - 3TII
-#Juliano Breda de Oliveira - 3TII
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
